@@ -1,0 +1,67 @@
+{
+  "cryptos": [
+    {
+      "id": 1,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 2,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 3,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 4,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 5,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 6,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 7,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 8,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    },
+    {
+      "id": 9,
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "currency": "721,882",
+      "growth": "-4.66"
+    }
+]
+}    
